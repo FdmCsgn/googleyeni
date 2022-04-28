@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google</title>
+    <link rel="stylesheet" href="css/kod.css">
+</head>
+<body>
+    <article class="bölüm1">
+        <a href="contant" style="text-decoration: none; padding-right: 10px;">Gmail</a>
+        <a href="contant" style="text-decoration: none; padding-right: 10px;">Görüntüler</a>
+        <a style="text-decoration: none; padding-right: 10px; " href="contant">google uygulamalar</a>
+        <button>Kayıt Olmak</button>
+    </article> 
+
+    <article class="googlelogo">
+        <img src="https://github.com/FurkanDag/css_odev3/blob/main/logo.jpg?raw=true" alt="">
+    </article> 
+
+    <article class="arama">
+        <input  type="text" title="Ara" >
+    </article>
+
+    <article class="arama button">
+        <button>Google'da Ara</button>
+        <button>Kendimi Şanslı Hissediyorum</button>
+    </article>
+
+</body>
+</html>

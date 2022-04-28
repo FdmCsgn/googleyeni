@@ -1,0 +1,18 @@
+
+.satır1 {
+    padding-left: 1100px;
+}
+
+.logo {
+        height: 233px;
+        margin-top: 89px;
+        text-align: center;
+}
+
+.arama {
+    padding-top: 20px;
+    padding-left: 400px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 30px;
+    border: none;
+}
